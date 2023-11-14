@@ -1,0 +1,2 @@
+num_ng;factors;num_layers;dropout;lr;batch_size;reg_1;reg_2;precision
+4;24;2;0.5;0.001;256;0.001;0.001;0.0008
